@@ -20,7 +20,7 @@ eProject Published at: https://thiendoan87.github.io/MyTiles/MyTiles/Homepage_HT
 
 ============================
 
-eProject Documentation at:
+eProject Documentation at: https://github.com/ThienDoan87/MyTiles/tree/master/Document
 
 ============================
 
